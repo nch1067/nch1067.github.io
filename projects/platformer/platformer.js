@@ -60,7 +60,7 @@ $(function () {
     createCollectable("database",725,600,10,0.5)
     createCollectable("database",875,200,10,0.5)
     createCollectable("database",1225,100,10,0.5)
-    createCollectable("database",1300,650,10,0.5)
+    createCollectable("kennedi",1300,650,10,0.5)
 
 
     // TODO 3
